@@ -14,7 +14,7 @@ Feel free to join their music modding community and ask any questions: https://d
 
 For more info/guide on music modding, please visit the EU4 wiki: https://eu4.paradoxwikis.com/Music_modding 
 
-#HOW TO USE
+HOW TO USE
 1. Drop this script in the Music folder of your EU4 mod. 
 2. Add all of your .ogg music files to the folder.
 3. Run the script.
