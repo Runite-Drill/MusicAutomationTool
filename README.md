@@ -7,7 +7,7 @@ This is a script that creates the required .asset file and a basic .txt file for
 
 The script will skip over any file called "maintheme" as this only replaces the loading music and is not shown in-game by the audio engine.
 The script also allows for your files to be prefixed with a number and an underscore, e.g. 1_Pokemon.ogg, 2_YuGiOh.ogg, so that you can order your music tracks. This naming system is supported up to "99_XXXXX".
-You are strong encouraged to hop into the generated files and check that everything has been created properly. In particular, you may wish to add to the conditions in the .txt file that affect the chances of the music playing.
+You are strongly encouraged to hop into the generated files and check that everything has been created properly. In particular, you may wish to add to the conditions in the .txt file that affect the chances of the music playing.
 
 This script is open-source and was created by Runite Drill for ease in publishing music mods by community composer Utopia.
 Feel free to join their music modding community and ask any questions: https://discord.gg/SdQhfBM
